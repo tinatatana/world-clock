@@ -15,8 +15,6 @@ select {
   display: block;
   width: 100%;
   border-radius: 4px;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
-
   padding: 10px;
 }
 h1 {
